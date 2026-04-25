@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output files
+output/
+*.pkl
+
+# Downloaded/cloned repositories
+raw-c/
+psycho-embeddings/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
